@@ -1,0 +1,6 @@
+D:\VS2019Project\PanIDandChannelModifier\PanIDandChannelModifier\bin\Debug\PanIDandChannelModifier.exe.config
+D:\VS2019Project\PanIDandChannelModifier\PanIDandChannelModifier\bin\Debug\PanIDandChannelModifier.exe
+D:\VS2019Project\PanIDandChannelModifier\PanIDandChannelModifier\bin\Debug\PanIDandChannelModifier.pdb
+D:\VS2019Project\PanIDandChannelModifier\PanIDandChannelModifier\obj\Debug\PanIDandChannelModifier.csprojAssemblyReference.cache
+D:\VS2019Project\PanIDandChannelModifier\PanIDandChannelModifier\obj\Debug\PanIDandChannelModifier.exe
+D:\VS2019Project\PanIDandChannelModifier\PanIDandChannelModifier\obj\Debug\PanIDandChannelModifier.pdb
